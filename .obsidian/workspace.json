@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "44ada9c5bef4baff",
+    "type": "split",
+    "children": [
+      {
+        "id": "464b4d86d6af5ace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "992aaaa4c64b378f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c0c60f71905dde6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f69f28c37fc624bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3673e462633331d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "049f55752dd99a03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69b2f483e17c9789",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7600af3290ab0974",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a22cd506adc4cfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a17f858cfd2eeafd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69971e15e2118fa2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bdc64aea960565d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b1a144a47c1137d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/Introduction.md"
+              }
+            }
+          },
+          {
+            "id": "cc4bb2fc2b66b36f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "992aaaa4c64b378f",
+  "lastOpenFiles": [
+    "BitTorrent/Implementation.md",
+    "Git/Introduction.md",
+    "Git",
+    "BitTorrent/1. Protocol.md",
+    "BitTorrent/Terminologies.md",
+    "General.md",
+    "digital signatures.md",
+    "BitTorrent/rough.md",
+    "C/1. Introduction.md",
+    "BitTorrent",
+    "C/pictures/main_function.png",
+    "C/pictures",
+    "C/Rough.md",
+    "Bash Scripting/3. Writing Bash Scripts.md",
+    "C",
+    "Bash Scripting/2. Basic Commands.md",
+    "Bash Scripting/References.md",
+    "Bash Scripting/1. What and Why?.md",
+    "Bash Scripting/Untitled",
+    "References/Bash Scripting",
+    "References/Untitled.md",
+    "References",
+    "Bash Scripting"
+  ]
+}

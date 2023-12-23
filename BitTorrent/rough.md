@@ -1,0 +1,3 @@
+- BitTorrent is a protocol for distributing files. 
+- It identifies content by url.
+- Downloaders upload to each other, making it possible for the file source to support very large numbers of downloaders with only a modest increase in its load.
