@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "464b4d86d6af5ace",
+        "id": "af3fab33efb23f18",
         "type": "tabs",
         "children": [
           {
-            "id": "992aaaa4c64b378f",
+            "id": "4efdf025853099ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Introduction.md",
+                "file": "Golang/4. GO Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 267.5
   },
   "right": {
     "id": "7600af3290ab0974",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Introduction.md",
+                "file": "Golang/4. GO Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Introduction.md",
+                "file": "Golang/4. GO Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Introduction.md"
+                "file": "Golang/4. GO Programming.md"
               }
             }
           },
@@ -156,15 +156,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "992aaaa4c64b378f",
+  "active": "4efdf025853099ed",
   "lastOpenFiles": [
+    "Golang/2. Syntax and Development.md",
+    "Golang/4. GO Programming.md",
+    "Golang/3. Booking Application Example.md",
+    "Golang/1. Introduction.md",
+    "General.md",
     "README.md",
     "BitTorrent/Implementation.md",
+    "BitTorrent/1. Protocol.md",
+    "Bash Scripting/References.md",
+    "Bash Scripting/3. Writing Bash Scripts.md",
+    "Bash Scripting/2. Basic Commands.md",
+    "Bash Scripting/1. What and Why?.md",
+    "Linux/Instructions.md",
+    "Linux",
+    "Golang",
+    "BitTorrent/Terminologies.md",
     "Git/Introduction.md",
     "Git",
-    "BitTorrent/1. Protocol.md",
-    "BitTorrent/Terminologies.md",
-    "General.md",
     "digital signatures.md",
     "BitTorrent/rough.md",
     "C/1. Introduction.md",
@@ -172,11 +183,7 @@
     "C/pictures/main_function.png",
     "C/pictures",
     "C/Rough.md",
-    "Bash Scripting/3. Writing Bash Scripts.md",
     "C",
-    "Bash Scripting/2. Basic Commands.md",
-    "Bash Scripting/References.md",
-    "Bash Scripting/1. What and Why?.md",
     "Bash Scripting/Untitled",
     "References/Bash Scripting",
     "References/Untitled.md",

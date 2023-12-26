@@ -35,5 +35,5 @@ The exact size of a piece varies between torrents, but they are usually somewher
 
 We'll download these pieces from our peers, check them against the hashes from our torrent file, assemble them together, and get the full file.
 
-This mechanism allows us to verify the integrity of each piece as we go. It makes BitTorrent resistant to accidental corruption and intentional **torrent poisoning**.
-Unless an attacker is capable of breaking SHA-1 with a preimage attack
+This mechanism allows us to verify the integrity of each piece as we go. It makes BitTorrent resistant to accidental corruption and intentional [[Terminologies#Torrent poisoning|torrent poisoning]].
+Unless an attacker is capable of breaking SHA-1 with a [[Terminologies#Preimage attack|preimage attack]], asked content will be delivered with no problem.

@@ -8,7 +8,7 @@
 
 #### SHA-1 Hashing
 - Vulnerabilities were discovered in SHA-1, making it susceptible to collision attacks where different inputs could produce the same hash value.
-- Due to these vulnerabilities, SHA-1 is now considered depricated for security-sensitive applications.
+- Due to these vulnerabilities, SHA-1 is now considered deprecated for security-sensitive applications.
 
 - It is developed by the National Security Agency (NSA).
 
