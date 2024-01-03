@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Preparation/1. OOP.md",
+                "file": "Interview Preparation/2. Database management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Preparation/1. OOP.md",
+                "file": "Interview Preparation/2. Database management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Preparation/1. OOP.md",
+                "file": "Interview Preparation/2. Database management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Preparation/1. OOP.md"
+                "file": "Interview Preparation/2. Database management.md"
               }
             }
           },
@@ -160,8 +160,11 @@
   },
   "active": "4efdf025853099ed",
   "lastOpenFiles": [
-    "Interview Preparation/images/Pasted image 20240101202913.png",
     "Interview Preparation/1. OOP.md",
+    "Interview Preparation/2. Database management.md",
+    "Interview Preparation/4. General.md",
+    "Interview Preparation/3. Security.md",
+    "Interview Preparation/images/Pasted image 20240101202913.png",
     "Interview Preparation/images",
     "Golang/2. Syntax and Development.md",
     "Interview Preparation",
