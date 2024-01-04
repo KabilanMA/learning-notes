@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Preparation/2. Database management.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Preparation/2. Database management.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Preparation/2. Database management.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Preparation/2. Database management.md"
+                "file": "README.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "4efdf025853099ed",
   "lastOpenFiles": [
-    "Interview Preparation/1. OOP.md",
     "Interview Preparation/2. Database management.md",
+    "Interview Preparation/1. OOP.md",
     "Interview Preparation/4. General.md",
     "Interview Preparation/3. Security.md",
     "Interview Preparation/images/Pasted image 20240101202913.png",
