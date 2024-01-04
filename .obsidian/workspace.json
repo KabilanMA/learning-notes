@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9848e737555a367a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -160,14 +168,16 @@
   },
   "active": "4efdf025853099ed",
   "lastOpenFiles": [
-    "Interview Preparation/2. Database management.md",
-    "Interview Preparation/1. OOP.md",
-    "Interview Preparation/4. General.md",
-    "Interview Preparation/3. Security.md",
-    "Interview Preparation/images/Pasted image 20240101202913.png",
-    "Interview Preparation/images",
+    "Bash Scripting.md",
+    "README.md",
+    "InterviewPreparation/2. Database management.md",
+    "InterviewPreparation/1. OOP.md",
+    "InterviewPreparation/4. General.md",
+    "InterviewPreparation/3. Security.md",
+    "InterviewPreparation/images/Pasted image 20240101202913.png",
+    "InterviewPreparation/images",
     "Golang/2. Syntax and Development.md",
-    "Interview Preparation",
+    "InterviewPreparation",
     "Golang/3. Booking Application Example.md",
     "Golang/4. GO Programming.md",
     "Golang/5. Web Server.md",
@@ -177,13 +187,12 @@
     "C/Rough.md",
     "General.md",
     "C/pictures/main_function.png",
-    "README.md",
     "BitTorrent/Implementation.md",
     "BitTorrent/1. Protocol.md",
-    "Bash Scripting/References.md",
-    "Bash Scripting/3. Writing Bash Scripts.md",
-    "Bash Scripting/2. Basic Commands.md",
-    "Bash Scripting/1. What and Why?.md",
+    "BashScripting/References.md",
+    "BashScripting/3. Writing Bash Scripts.md",
+    "BashScripting/2. Basic Commands.md",
+    "BashScripting/1. What and Why?.md",
     "Linux/Instructions.md",
     "Linux",
     "Golang",
@@ -196,7 +205,6 @@
     "C/pictures",
     "C",
     "Bash Scripting/Untitled",
-    "References/Bash Scripting",
-    "References/Untitled.md"
+    "References/Bash Scripting"
   ]
 }
