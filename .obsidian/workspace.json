@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af3fab33efb23f18",
+        "id": "54e367a3eabe1966",
         "type": "tabs",
         "children": [
           {
-            "id": "4efdf025853099ed",
+            "id": "34e5873a25e64a8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9848e737555a367a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -166,10 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4efdf025853099ed",
+  "active": "34e5873a25e64a8c",
   "lastOpenFiles": [
-    "Bash Scripting.md",
+    "General.md",
+    "BashScripting/1. What and Why?.md",
     "README.md",
+    "Bash Scripting.md",
     "InterviewPreparation/2. Database management.md",
     "InterviewPreparation/1. OOP.md",
     "InterviewPreparation/4. General.md",
@@ -185,14 +179,12 @@
     "C/1. Introduction.md",
     "C/2. Memory and Pointers.md",
     "C/Rough.md",
-    "General.md",
     "C/pictures/main_function.png",
     "BitTorrent/Implementation.md",
     "BitTorrent/1. Protocol.md",
     "BashScripting/References.md",
     "BashScripting/3. Writing Bash Scripts.md",
     "BashScripting/2. Basic Commands.md",
-    "BashScripting/1. What and Why?.md",
     "Linux/Instructions.md",
     "Linux",
     "Golang",
