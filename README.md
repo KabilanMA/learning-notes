@@ -1,7 +1,7 @@
 # learning-notes
 This repository contain my personal notes and learning material
 
--  [Bash Scripting](1.%20What%20and%20Why?.md)
+-  [Bash Scripting](1.%20What%20and%20Why%3F.md)
 - [BitTorrent](./BitTorrent/1.%20Protocol.md)
 - [C](./C/1.%20Introduction.md)
 - [Git](./Git/Introduction.md)
