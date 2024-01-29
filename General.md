@@ -35,3 +35,22 @@
 
 ## Bencode
 
+
+## Binary Number System
+
+### Complement
+- (r-1)'s complement = r^n - N - 1 = (r^n - 1) - N
+		n : Number of digits
+		N : Actual number
+#### 1's Complement
+- 1's complement of a binary number is another binary number obtained by toggling all bits in it
+	- i.e., transforming the 0 bit to 1 and the 1 bit  to 0.
+	
+- The positive numbers remain unchanged while the negative numbers are obtained by taking the 1's complement of positive counterparts.
+- For example:
+		+9 -> 00001001 (in 8-bit notation)
+		-9 ->  11 1 10110 (in 8-bit notation)
+
+#### 2's Complement
+- 2's complement = 1's complement + 1
+

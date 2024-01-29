@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54e367a3eabe1966",
+        "id": "b0a59d6905720b87",
         "type": "tabs",
         "children": [
           {
-            "id": "34e5873a25e64a8c",
+            "id": "e8c00a4c3353c4ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Java/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Java/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Java/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Java/General.md"
               }
             }
           },
@@ -158,20 +158,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34e5873a25e64a8c",
+  "active": "e8c00a4c3353c4ef",
   "lastOpenFiles": [
     "General.md",
-    "BashScripting/1. What and Why?.md",
-    "README.md",
-    "Bash Scripting.md",
-    "InterviewPreparation/2. Database management.md",
+    "Java/General.md",
+    "Java",
+    "Spring",
+    "Database Project/Plan and Notes.md",
+    "Microservices",
     "InterviewPreparation/1. OOP.md",
-    "InterviewPreparation/4. General.md",
+    "Database Project",
+    "InterviewPreparation/2. Database management.md",
+    "InterviewPreparation/5. DS&A.md",
     "InterviewPreparation/3. Security.md",
+    "LangChain/1.1 Models, Prompts and Output Parsers.md",
+    "LangChain",
+    "InterviewPreparation/images/jwt-workflow.JPG",
+    "README.md",
+    "DatabaseManagement/sql/dml.sql",
+    "DatabaseManagement/sql/ddl.sql",
+    "DatabaseManagement/sql",
+    "DatabaseManagement",
+    "sql",
+    "BashScripting/1. What and Why?.md",
+    "Bash Scripting.md",
+    "InterviewPreparation/4. General.md",
     "InterviewPreparation/images/Pasted image 20240101202913.png",
-    "InterviewPreparation/images",
     "Golang/2. Syntax and Development.md",
-    "InterviewPreparation",
     "Golang/3. Booking Application Example.md",
     "Golang/4. GO Programming.md",
     "Golang/5. Web Server.md",
@@ -185,18 +198,6 @@
     "BashScripting/References.md",
     "BashScripting/3. Writing Bash Scripts.md",
     "BashScripting/2. Basic Commands.md",
-    "Linux/Instructions.md",
-    "Linux",
-    "Golang",
-    "BitTorrent/Terminologies.md",
-    "Git/Introduction.md",
-    "Git",
-    "digital signatures.md",
-    "BitTorrent/rough.md",
-    "BitTorrent",
-    "C/pictures",
-    "C",
-    "Bash Scripting/Untitled",
-    "References/Bash Scripting"
+    "Linux/Instructions.md"
   ]
 }
