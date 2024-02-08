@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/General.md",
+                "file": "Compilers/01 - Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/General.md",
+                "file": "Compilers/01 - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/General.md",
+                "file": "Compilers/01 - Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/General.md"
+                "file": "Compilers/01 - Introduction.md"
               }
             }
           },
@@ -158,10 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8c00a4c3353c4ef",
+  "active": "3673e462633331d9",
   "lastOpenFiles": [
-    "General.md",
+    "Compilers/images",
+    "Compilers/images/Pasted image 20240208221436.png",
     "Java/General.md",
+    "Compilers/01 - Introduction.md",
+    "Compilers",
+    "General.md",
     "Java",
     "Spring",
     "Database Project/Plan and Notes.md",
@@ -179,7 +183,6 @@
     "DatabaseManagement/sql/ddl.sql",
     "DatabaseManagement/sql",
     "DatabaseManagement",
-    "sql",
     "BashScripting/1. What and Why?.md",
     "Bash Scripting.md",
     "InterviewPreparation/4. General.md",
@@ -196,8 +199,6 @@
     "BitTorrent/Implementation.md",
     "BitTorrent/1. Protocol.md",
     "BashScripting/References.md",
-    "BashScripting/3. Writing Bash Scripts.md",
-    "BashScripting/2. Basic Commands.md",
-    "Linux/Instructions.md"
+    "BashScripting/3. Writing Bash Scripts.md"
   ]
 }
