@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a59d6905720b87",
+        "id": "ede5d679c4ff74f9",
         "type": "tabs",
         "children": [
           {
-            "id": "e8c00a4c3353c4ef",
+            "id": "27c32a6e95a99de0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compilers/01 - Introduction.md",
+                "file": "C/2. Memory and Pointers.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 200
   },
   "right": {
     "id": "7600af3290ab0974",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compilers/01 - Introduction.md",
+                "file": "C/2. Memory and Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compilers/01 - Introduction.md",
+                "file": "C/2. Memory and Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compilers/01 - Introduction.md"
+                "file": "C/2. Memory and Pointers.md"
               }
             }
           },
@@ -158,17 +158,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3673e462633331d9",
+  "active": "27c32a6e95a99de0",
   "lastOpenFiles": [
+    "SocketProgramming/1. Overview.md",
+    "Compilers/01 - Introduction.md",
+    "SocketProgramming/Pasted image 20240211205511.png",
+    "SocketProgramming",
+    "Compilers/Codes/1.cl",
+    "Compilers/Codes",
+    "Golang/2. Syntax and Development.md",
+    "Golang/1. Introduction.md",
+    "Git/Introduction.md",
+    "Database Project/Plan and Notes.md",
+    "C/2. Memory and Pointers.md",
+    "C/Rough.md",
+    "C/1. Introduction.md",
+    "BitTorrent/1. Protocol.md",
+    "BitTorrent/Terminologies.md",
+    "BitTorrent/rough.md",
+    "BitTorrent/Implementation.md",
+    "BashScripting/2. Basic Commands.md",
+    "BashScripting/1. What and Why?.md",
+    "General.md",
     "Compilers/images",
     "Compilers/images/Pasted image 20240208221436.png",
     "Java/General.md",
-    "Compilers/01 - Introduction.md",
     "Compilers",
-    "General.md",
     "Java",
     "Spring",
-    "Database Project/Plan and Notes.md",
     "Microservices",
     "InterviewPreparation/1. OOP.md",
     "Database Project",
@@ -179,26 +196,9 @@
     "LangChain",
     "InterviewPreparation/images/jwt-workflow.JPG",
     "README.md",
-    "DatabaseManagement/sql/dml.sql",
-    "DatabaseManagement/sql/ddl.sql",
-    "DatabaseManagement/sql",
-    "DatabaseManagement",
-    "BashScripting/1. What and Why?.md",
     "Bash Scripting.md",
     "InterviewPreparation/4. General.md",
     "InterviewPreparation/images/Pasted image 20240101202913.png",
-    "Golang/2. Syntax and Development.md",
-    "Golang/3. Booking Application Example.md",
-    "Golang/4. GO Programming.md",
-    "Golang/5. Web Server.md",
-    "Golang/1. Introduction.md",
-    "C/1. Introduction.md",
-    "C/2. Memory and Pointers.md",
-    "C/Rough.md",
-    "C/pictures/main_function.png",
-    "BitTorrent/Implementation.md",
-    "BitTorrent/1. Protocol.md",
-    "BashScripting/References.md",
-    "BashScripting/3. Writing Bash Scripts.md"
+    "C/pictures/main_function.png"
   ]
 }
