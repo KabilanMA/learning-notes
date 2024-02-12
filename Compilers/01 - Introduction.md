@@ -84,7 +84,9 @@ Project is to build a complete compiler to compile COOL programs to MIPS[^1] ass
 - Every Cool program has to have a class called __Main__.
 - Every class declaration should end with a __;__
 - A __main__ method of the __Main__ class should always exist and it shouldn't take any argument. This is the starting point of the program.
-- COOL is an __expression language__ which means wherever a piece code can go
+- COOL is an __expression language__ which means wherever a piece code can go, an expression can go in place and there is no explicit __Return__ statement.
+- COOL method should define a return type in the function definition.
+- 
 
 
 
