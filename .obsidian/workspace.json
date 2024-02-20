@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c6492b7428bb89b",
+        "id": "163c855fbac6c12a",
         "type": "tabs",
         "children": [
           {
-            "id": "c1a0f13872875747",
+            "id": "1e175864d8e3f1d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compilers/01 - Introduction.md",
+                "file": "Database Internals/1. Lecture - 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compilers/01 - Introduction.md",
+                "file": "Database Internals/1. Lecture - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compilers/01 - Introduction.md",
+                "file": "Database Internals/1. Lecture - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compilers/01 - Introduction.md"
+                "file": "Database Internals/1. Lecture - 1.md"
               }
             }
           },
@@ -158,11 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1a0f13872875747",
+  "active": "1e175864d8e3f1d9",
   "lastOpenFiles": [
+    "Database Internals/Project Plan and Notes.md",
+    "Database Internals/1. Lecture - 1.md",
+    "Compilers/01 - Introduction.md",
     "C/2. Memory and Pointers.md",
     "SocketProgramming/1. Overview.md",
-    "Compilers/01 - Introduction.md",
     "SocketProgramming/Pasted image 20240211205511.png",
     "SocketProgramming",
     "Compilers/Codes/1.cl",
@@ -170,7 +172,6 @@
     "Golang/2. Syntax and Development.md",
     "Golang/1. Introduction.md",
     "Git/Introduction.md",
-    "Database Project/Plan and Notes.md",
     "C/Rough.md",
     "C/1. Introduction.md",
     "BitTorrent/1. Protocol.md",
@@ -188,7 +189,7 @@
     "Spring",
     "Microservices",
     "InterviewPreparation/1. OOP.md",
-    "Database Project",
+    "Database Internals",
     "InterviewPreparation/2. Database management.md",
     "InterviewPreparation/5. DS&A.md",
     "InterviewPreparation/3. Security.md",
