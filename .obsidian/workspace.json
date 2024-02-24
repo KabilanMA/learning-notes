@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Internals/1. Lecture - 1.md",
+                "file": "DaCe/References & Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Internals/1. Lecture - 1.md",
+                "file": "DaCe/References & Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Internals/1. Lecture - 1.md",
+                "file": "DaCe/References & Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Internals/1. Lecture - 1.md"
+                "file": "DaCe/References & Notes.md"
               }
             }
           },
@@ -160,8 +160,11 @@
   },
   "active": "1e175864d8e3f1d9",
   "lastOpenFiles": [
-    "Database Internals/Project Plan and Notes.md",
+    "DaCe/1. Basics.md",
+    "DaCe/References & Notes.md",
     "Database Internals/1. Lecture - 1.md",
+    "DaCe",
+    "Database Internals/Project Plan and Notes.md",
     "Compilers/01 - Introduction.md",
     "C/2. Memory and Pointers.md",
     "SocketProgramming/1. Overview.md",
@@ -194,11 +197,8 @@
     "InterviewPreparation/5. DS&A.md",
     "InterviewPreparation/3. Security.md",
     "LangChain/1.1 Models, Prompts and Output Parsers.md",
-    "LangChain",
     "InterviewPreparation/images/jwt-workflow.JPG",
     "README.md",
-    "Bash Scripting.md",
-    "InterviewPreparation/4. General.md",
     "InterviewPreparation/images/Pasted image 20240101202913.png",
     "C/pictures/main_function.png"
   ]
